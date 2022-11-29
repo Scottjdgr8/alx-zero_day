@@ -1,2 +1,2 @@
-My first read me
-Scott sotware
+My first readme
+Starting to code today,so cool 
